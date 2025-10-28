@@ -15,8 +15,8 @@
 
 Для кожної дати вивести агреговані показники (середнє, максимум та мінімум) для щоденних витрат окремо для Google та Facebook (в одній таблиці)
 
-Файл із SQL запитом:  [1_1_aggregation_daily_spending.sql](https://github.com/OlhaHaidash/da28_final_project_sql/blob/main/1_1_aggregation_daily_spending.sql)
-Скріншот результату запиту: [screenshot_1_1](https://github.com/OlhaHaidash/da28_final_project_sql/blob/main/screenshots_dbeaver/1_1_aggregation_daily_spending.png)
+[Файл із SQL запитом](https://github.com/OlhaHaidash/da28_final_project_sql/blob/main/1_1_aggregation_daily_spending.sql)  
+[Скріншот результату запиту](https://github.com/OlhaHaidash/da28_final_project_sql/blob/main/screenshots_dbeaver/1_1_aggregation_daily_spending.png)
 
 **Висновки**
 
